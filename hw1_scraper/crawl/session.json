@@ -1,0 +1,122 @@
+{
+    "cookies": [
+        {
+            "name": "i",
+            "value": "ohzJX5wCxgCot7qDO3+qiJU7nM8O8xWMvg8+OuhVEWEpA3dr9oxbVGnR2lisN0UoZSDDnjtGykEeCGRcwbozXPx24yA=",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1777048991.719863,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "yandexuid",
+            "value": "1860809721742488991",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1777048992.128038,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "yashr",
+            "value": "7211365891742488991",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1774024991.720085,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ym_uid",
+            "value": "1742488992503468781",
+            "domain": ".sannysoft.com",
+            "path": "/",
+            "expires": 1774024991,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ym_d",
+            "value": "1742488992",
+            "domain": ".sannysoft.com",
+            "path": "/",
+            "expires": 1774024991,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "yabs-sid",
+            "value": "1250172231742488992",
+            "domain": "mc.yandex.ru",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "yuidss",
+            "value": "1860809721742488991",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1777048992.128135,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ymex",
+            "value": "2057848992.yrts.1742488992",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1774024992,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "receive-cookie-deprecation",
+            "value": "1",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1774024992,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bh",
+            "value": "EiciQ2hyb21pdW0iO3Y9IjEzMyIsIk5vdChBOkJyYW5kIjt2PSI5OSIaA3g4NiINMTMzLjAuNjk0My4xNioCPzA6B1dpbmRvd3NCBjEwLjAuMEoCNjRSNyJDaHJvbWl1bSI7dj0iMTMzLjAuNjk0My4xNiIsIk5vdChBOkJyYW5kIjt2PSI5OS4wLjAuMCJgoIvxvgY=",
+            "domain": ".yandex.ru",
+            "path": "/",
+            "expires": 1777048992,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ym_isad",
+            "value": "2",
+            "domain": ".sannysoft.com",
+            "path": "/",
+            "expires": 1742560992,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "localStorage": {
+        "_ym_synced": "{}",
+        "_ym86860295:0_reqNum": "1",
+        "_ym86860295_lsid": "181015103128",
+        "_ym_uid": "\"1742488992503468781\"",
+        "_ym_retryReqs": "{\"1\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.ru\",\"resource\":\"watch/86860295\",\"time\":1742488991892,\"counterType\":\"0\",\"params\":{\"page-url\":\"https://bot.sannysoft.com/\",\"charset\":\"utf-8\",\"uah\":\"chu\\n\\\"Chromium\\\";v=\\\"133\\\",\\\"Not(A:Brand\\\";v=\\\"99\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n133.0.6943.16\\nchl\\n\\\"Chromium\\\";v=\\\"133.0.6943.16\\\",\\\"Not(A:Brand\\\";v=\\\"99.0.0.0\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0.0\"},\"browserInfo\":{\"pv\":1,\"vf\":\"14pwap7gbnncs44tf8xglmzmdcdb\",\"fu\":0,\"en\":\"utf-8\",\"la\":\"uk-UA\",\"v\":\"1640\",\"cn\":1,\"dp\":0,\"ls\":181015103128,\"hid\":537434871,\"z\":120,\"i\":\"20250320184311\",\"et\":1742488992,\"c\":1,\"rn\":946095549,\"rqn\":1,\"u\":\"1742488992503468781\",\"w\":\"1903x1080\",\"s\":\"1920x1080x24\",\"sk\":1,\"fp\":1660,\"wv\":2,\"ds\":\"0,644,199,2,1,0,,900,0,,,,1755\",\"co\":0,\"ntf\":1,\"ns\":1742488989330,\"t\":\"Antibot\",\"rqnl\":1},\"counterId\":86860295,\"ghid\":537434871,\"telemetry\":{\"gdpr\":\"14\",\"clc\":\"0-0-0\",\"rqnt\":1,\"aw\":1,\"rcm\":1,\"cdl\":\"na\",\"eco\":42009088}}}"
+    },
+    "sessionStorage": {}
+}
